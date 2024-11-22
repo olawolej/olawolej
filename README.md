@@ -42,4 +42,4 @@ Templates and analysis scripts to measure and improve the sustainability of cons
 
 ## Let's Connect  
 📧 **Email**: [olawole.jerry@gmail.com](mailto:olawole.jerry@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/jeremiaholawole](https://linkedin.com/in/jeremiaholawole)  
+🔗 **LinkedIn**: [linkedin.com/in/jeremiaholawole](https://www.linkedin.com/in/jeremiah-o-ab1026a0/)  
