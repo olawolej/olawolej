@@ -19,7 +19,7 @@ Hi there! 👋 I'm Jeremiah, a dedicated professional with experience in managin
 - **Project Management**: Planning, scheduling, stakeholder engagement, and reporting.  
 - **GIS and Data Analysis**: Spatial data visualization, ArcGIS Pro workflows.  
 - **Environmental Compliance**: Ensuring projects meet local and global sustainability standards.  
-- **Construction Management**: Supporting the delivery of infrastructure projects and using tools like Asite.
+- **Construction Management**: Supporting the delivery of infrastructure projects and using tools like MS Project, Asite, Fastdraft.
 
 ---
 
